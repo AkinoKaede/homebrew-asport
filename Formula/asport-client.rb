@@ -1,5 +1,5 @@
 class AsportClient < Formula
-  desc "A quick and secure reverse proxy client based on QUIC for NAT traversal."
+  desc "A quick and secure reverse tunnel client based on QUIC."
   homepage "https://github.com/AkinoKaede/asport"
   url "https://github.com/AkinoKaede/asport/archive/refs/tags/v0.3.0.tar.gz"
   sha256 "7d994546763cc7125247dc2e043cbfe7c3f158528d0ee0d8d5a2db8c2af58c09"
