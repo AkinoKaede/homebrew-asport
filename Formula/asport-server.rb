@@ -1,8 +1,8 @@
 class AsportServer < Formula
   desc "A quick and secure reverse tunnel server based on QUIC."
   homepage "https://github.com/AkinoKaede/asport"
-  url "https://github.com/AkinoKaede/asport/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "7d994546763cc7125247dc2e043cbfe7c3f158528d0ee0d8d5a2db8c2af58c09"
+  url "https://github.com/AkinoKaede/asport/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "4318bc503b3a04adc020d72324c64b0fe53b718298f9a25c7cbdfbebbc375d17"
   license "GPL-3.0-or-later"
   head "https://github.com/AkinoKaede/asport", branch: "main"
 
